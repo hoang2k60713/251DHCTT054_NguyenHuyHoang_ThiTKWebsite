@@ -1,35 +1,17 @@
-Thông tin sinh viên:
-MSSV: 251DHCTT054
-Họ tên: Nguyễn Huy Hoàng
+Bài Thi Thiết kế web Mã sinh viên: 22123456 Họ tên sinh viên: Nguyễn Văn A
+
+Mô tả chức năng đã thực hiện:
+
+Thiết kế giao diện website Ngày hội Công nghệ Thông tin 2026 bằng HTML5 và CSS3.
+Sử dụng các thẻ semantic: header, nav, section, article, footer.
+Xây dựng bố cục bằng Flexbox và CSS Grid.
+Hiển thị danh sách các hoạt động: Hackathon, AI Challenge, Robotics.
+Xử lý sự kiện bằng JavaScript khi nhấn nút Chi tiết.
+Hiển thị tên hoạt động và điểm thưởng tương ứng.
+Cập nhật mục đang chọn trên Sidebar.
+Cập nhật khu vực Hoạt động đã chọn ở cuối trang.
+Hiển thị thời gian truy cập và cập nhật liên tục theo thời gian thực.
+Áp dụng hiệu ứng Hover và Transition cho menu, sidebar, button và các thẻ hoạt động.
 
 
-Mô tả website:
-Website quản lý học tập cá nhân gồm:
-- Danh sách môn học
-- Tiến độ học tập
-- Thông tin môn học đang chọn
-- Thống kê kết quả học tập
 
-
-Công nghệ sử dụng:
-- HTML
-- CSS
-- JavaScript
-
-
-Chức năng:
-1. Hiển thị giao diện Dashboard
-2. Xem thông tin từng môn học
-3. Thay đổi menu đang chọn
-4. Tự động thay đổi bố cục theo MSSV
-
-
-Cấu trúc thư mục:
-
-MSSV_HoTen
-│
-├── index.html
-├── css/style.css
-├── js/script.js
-├── images
-└── docs/README.txt
